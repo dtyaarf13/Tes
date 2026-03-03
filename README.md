@@ -1,1 +1,1 @@
-# Tes
+print("Hello World")
